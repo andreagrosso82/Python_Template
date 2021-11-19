@@ -3,16 +3,15 @@
 # Description : File di template da usare tutte le volte che scrivo un programma
 # Author      : Andrea
 # Date        : 27-09-2020
-# Revision    : R2
-# note        : Aggiunto la parte relativa alle costanti
+# Revision    : R3
+# note        : Translate the file in English
 ########################################################################
-# Importo le librerie che mi interessano
+# Libriries needed
 
-# Definisco le costanti che mi servono
+# Constants needed
 
-# Definisco le classi che mi servono
+# Classes needed
 
-# Definisco le funzioni che mi servono
-
+# Functions needed
 
 # Main proram
